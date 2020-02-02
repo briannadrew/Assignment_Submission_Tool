@@ -1,0 +1,28 @@
+login as: briannadrew
+briannadrew@loki.trentu.ca's password:
+Last failed login: Wed Jan 29 17:39:41 EST 2020 from 184.151.76.202 on ssh:notty
+There were 3 failed login attempts since the last successful login.
+Last login: Wed Jan 29 17:32:06 2020 from 184.151.76.202
+###############################################################
+#              Welcome to loki.trentu.ca                      #
+#             All connections are logged                      #
+#   Disconnect IMMEDIATELY if you are not an authorized user! #
+#                                                             #
+# NOTE:                                                       #
+#   LOKI's maintenance window is between 7am and 8am daily    #
+#   The system may reboot at any time during this period.     #
+# Any sessions or transfers may be interrupted in this window #
+###############################################################
+
+
+[briannadrew@loki ~]$ cd /home/briannadrew/lab1/
+[briannadrew@loki lab1]$ ./lab1_script_1.sh Drew Brianna 1 lab1
+Your zip file name is: Drew_Brianna_LAB(1).zip
+  adding: home/briannadrew/lab1/116.31.116.26 (deflated 29%)
+  adding: home/briannadrew/lab1/58.218.198.150 (deflated 26%)
+  adding: home/briannadrew/lab1/lab1pt2_log_1.txt (deflated 62%)
+  adding: home/briannadrew/lab1/lab1pt2_log_2.txt (deflated 62%)
+  adding: home/briannadrew/lab1/lab1_script_1.sh (deflated 75%)
+  adding: home/briannadrew/lab1/lab1_script_2.sh (deflated 71%)
+  adding: home/briannadrew/lab1/top_ten_ip.txt (deflated 47%)
+[briannadrew@loki lab1]$
